@@ -1,0 +1,3 @@
+xarg-python >= 1.6.2
+sitepages >= 0.2.1
+beautifulsoup4
